@@ -3,4 +3,7 @@ Just some PHP to download the latest server version of minecraft, one shows the 
 
 ## Function
 * version.php will output the sha1, useful for other scripts to version check.
-* latest.php will let you download the latest minecraft server version using wget.
+* latest.php will output the link to download the latest server jar.
+
+Unfortunately PHP cannot be hosted as a Git Repo Page.
+To run these scripts to get the desired outcome, execute using `php (script).php`
