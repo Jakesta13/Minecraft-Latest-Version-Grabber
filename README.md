@@ -6,4 +6,6 @@ Just some PHP to download the latest server version of minecraft, one shows the 
 * [latest.php](https://jakesta13.github.io/Minecraft-Latest-Version-Grabber/latest.php) will output the link to download the latest server jar.
 
 Unfortunately PHP cannot be hosted as a Git Repo Page.
+
+
 To run these scripts to get the desired outcome, execute using `php (script).php`
